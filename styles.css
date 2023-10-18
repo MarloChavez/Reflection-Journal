@@ -60,7 +60,8 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #F9EC19; /* Change the background color as needed */
+  font-family: "Pixelify Sans", serif;
+  background-color: #E93535; /* Change the background color as needed */
   color: #E93535; /* Change the text color as needed */
   padding: 10px 0;
   display: flex;
