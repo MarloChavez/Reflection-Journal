@@ -7,7 +7,7 @@
 15![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/46d9e6fb-3d54-45c4-a00b-21574f3e3672)
 18![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/bcfd8a23-a249-4870-a542-a93baff53d8d)
 19![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/ed230a72-ff62-45fd-8d85-c6508dc88c50)
-1![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/ed4aaa96-5b98-43e5-8904-811e57b2d3cf)
+1MAIN PAGE BG![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/ed4aaa96-5b98-43e5-8904-811e57b2d3cf)
 21![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/579f5686-9d6d-4a8c-b22f-0d38ca0b7924)
 23![Firefly robots taking seminar 59477 (2)](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/bc77747a-6e97-4c49-9036-b367dd87b0f3)
 25![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/35559c5f-cb44-49d7-ad0e-85d09340aa98)
