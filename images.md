@@ -20,6 +20,7 @@
 38![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/9f2a6669-a36b-432c-8b90-6a296c1e856f)
 40![image](https://github.com/nthnlgmz/Reflection-Journal/assets/143614589/0cd19887-94b4-4246-906e-d5d5cb577c88)
 CUTTING EDGE![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/c1d88a7a-b043-46d2-92a7-64d96cee8b9a)
+D'HorICEzons![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/ecaf01bd-d232-4fd4-b262-da5f43d0109e)
 
 
 
