@@ -384,19 +384,19 @@ profile .card .card__content .card__tag {
     letter-spacing: 3px;
     font-size: 20px;
     margin-left: 20px;
-    color: var(--white);
+    color:#FFFFFF;
 }
 profile .card .card__content .card__title {
     font-family: 'Fraunces', serif;
     text-transform: capitalize;
-    font-color: white;
+    color:#FFFFFF;
 }
 profile .card .card__content .card__desc {
     font-size: 15px;
     color: var(--white);
     line-height: 24px;
    margin-left: 20px;
-    font-color: white;
+   color:#FFFFFF;
 }
 profile .card .card__content .card__price {
     display: flex;
@@ -404,12 +404,12 @@ profile .card .card__content .card__price {
     column-gap: 20px;
 }
 profile .card .card__content .card__price h1 {
-    color: var(--white);
+    color:#FFFFFF;
     font-family: 'Fraunces', serif;
 }
 profile .card .card__content .card__price s {
     font-size: 14px;
-    color: var(--white);
+    color:#FFFFFF;
     font-color: white;
 }
 profile .card .card__content .card__btn {
@@ -422,7 +422,7 @@ profile .card .card__content .card__btn {
     outline: none;
     border: 0;
     border-radius: 10px;
-    color: var(--white);
+    color:#FFFFFF;
     font-weight: 700;
     font-size: 16px;
     cursor: pointer;
