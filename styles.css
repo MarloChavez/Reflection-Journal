@@ -383,18 +383,20 @@ profile .card .card__content .card__tag {
     text-transform: uppercase;
     letter-spacing: 3px;
     font-size: 20px;
-  margin-left: 20px;
+    margin-left: 20px;
     color: var(--white);
 }
 profile .card .card__content .card__title {
     font-family: 'Fraunces', serif;
     text-transform: capitalize;
+    font-color: white;
 }
 profile .card .card__content .card__desc {
     font-size: 15px;
     color: var(--white);
     line-height: 24px;
    margin-left: 20px;
+    font-color: white;
 }
 profile .card .card__content .card__price {
     display: flex;
@@ -408,6 +410,7 @@ profile .card .card__content .card__price h1 {
 profile .card .card__content .card__price s {
     font-size: 14px;
     color: var(--white);
+    font-color: white;
 }
 profile .card .card__content .card__btn {
     display: flex;
