@@ -16,7 +16,7 @@ body {
   height: 100vh;
   text-align: center; /* Center the content horizontally within the main container */
   border-radius: 15px; /* Add rounded corners to the main container */
-  background-color: #F0F0F0; /* Set a background color if needed */
+  background-color: #fff; /* Set a background color if needed */
   scrollbar-width: thin; /* Hide the scrollbar for Firefox */
   scrollbar-color: transparent transparent; /* Hide the scrollbar for Firefox */
   overflow: scroll; /* Add scrollbar for the main content */
