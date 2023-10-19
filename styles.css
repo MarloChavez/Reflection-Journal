@@ -6,6 +6,7 @@ body {
   padding: 0;
   overflow: hidden; /* Hide the main scrollbar */
   font-family: "Teko", sans-serif;
+  color:#FFFFFF;
 }
 
 .main {
@@ -64,7 +65,7 @@ body {
   width: 100%;
   font-family: "Pixelify Sans", serif;
   background-color: #E93535; /* Change the background color as needed */
-  color: #E93535; /* Change the text color as needed */
+  color: fff; /* Change the text color as needed */
   padding: 10px 0;
   display: flex;
   align-items: center; /* Vertically center logo and text */
@@ -78,7 +79,7 @@ body {
 
 .navbar-text {
   text-decoration: none;
-  color: #000000; /* Change the text color as needed */
+  color: #fff; /* Change the text color as needed */
   font-size: 24px; /* Adjust the font size as needed */
   font-weight: bold; /* Add or remove font weight as needed */
   margin: 0 auto; /* Center the text horizontally within the navbar */
@@ -90,7 +91,7 @@ body {
 }
 
 .sidebar h2 {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 /* Hide the scrollbar */
@@ -129,9 +130,10 @@ body {
   text-align: justify;
   list-style: disc;
   margin-bottom: 70px;
+  color:#581845;
 }
 .sidebar ul li a {
-  color: #333; /* Change the color to your desired font color */
+  color: #DE591B; /* Change the color to your desired font color */
 }
 .sidebar li {
   margin-bottom: 10px;
@@ -140,7 +142,7 @@ body {
 
 /* Highlight the active seminar link with a border */
 .sidebar a.current {
-  border-left: 4px solid #ff5733; /* Change the border color and width as needed */
+  border-left: 4px solid #54DE1B; /* Change the border color and width as needed */
   padding-left: 10px; /* Add some padding to separate the border from text */
   transition: border-color 0.3s; /* Add a smooth transition for the border color change */
 }
@@ -175,11 +177,11 @@ body {
   position: fixed;
   bottom: 0;
   left: 0;
-  background-color: #000;
+  background-color: #fffff;
   border-top-left-radius: 15px; /* Add rounded corners to the left bottom side */
   border-top-right-radius: 15px; /* Add rounded corners to the right top side */
   padding: 10px;
-  color: #fff;
+  color: #fffff;
   z-index: 999;
   width: 100%;
   text-align: center;
@@ -191,12 +193,12 @@ body {
 }
 .fixed-container a {
   text-decoration: none; /* Remove the underline from the link */
-  color: #fff; /* Set the text color to white */
+  color: #fffff; /* Set the text color to white */
   transition: color 0.3s; /* Add a smooth transition for the text color change */
 }
 
 .fixed-container a:hover {
-  color: #007bff; /* Change the text color on hover */
+  color: #fffff; /* Change the text color on hover */
   transition: color 0.3s; /* Smooth animation */
 }
 
@@ -208,7 +210,7 @@ body {
 }
 
 .fixed-container a:hover {
-  color: #007bff; /* Change the text color on hover */
+  color: #ffff; /* Change the text color on hover */
   transition: color 0.3s; /* Smooth animation */
 }
 
@@ -250,7 +252,7 @@ body {
   }
 
   .drawer a.current {
-    border-left: 4px solid #ff5733;
+    border-left: 4px solid #fffff;
     padding-left: 10px;
     transition: border-color 0.3s;
   }
@@ -286,7 +288,7 @@ body {
     height: 100vh;
     text-align: center;
     border-radius: 15px;
-    background-color: #fff;
+    background-color: #fffff;
     scrollbar-width: thin;
     scrollbar-color: transparent transparent;
     overflow: scroll;
@@ -302,7 +304,7 @@ body {
  
   .navbar-text {
     text-decoration: none;
-    color: white;
+    color: #fff;
     font-size: 24px;
     font-weight: bold;
     margin: 0 auto;
@@ -351,6 +353,7 @@ profile {
     display: flex;
     justify-content: center;
     align-items: center;
+  color:#FFFFFF;
 }
 profile .card {
     width: 600px;
@@ -358,19 +361,23 @@ profile .card {
     background-color: var(--white);
     display: flex;
     border-radius: 12px;
+  color:#FFFFFF;
 }
 profile .card .card__img, profile .card .card__content {
     width: 50%;
+  color:#FFFFFF;
 }
 profile .card .card__img picture {
     width: 100%;
     height: 100%;
     display: block;
+  color:#FFFFFF;
 }
 profile .card .card__img picture img {
     width: 100%;
     height: 100%;
     border-radius: 12px 0px 0px 12px;
+  color:#FFFFFF;
 }
 
 profile .card .card__content {
@@ -378,6 +385,7 @@ profile .card .card__content {
     display: flex;
     flex-direction: column;
     row-gap: 0px;
+  color:#FFFFFF;
 }
 profile .card .card__content .card__tag {
     text-transform: uppercase;
@@ -427,9 +435,10 @@ profile .card .card__content .card__btn {
     font-size: 16px;
     cursor: pointer;
     transition: background 200ms linear;
+  color:#FFFFFF;
 }
 profile .card .card__content .card__btn:hover {
-    background-color: var(--white);
+    background-color:#FFFFFF;;
 }
 
 
