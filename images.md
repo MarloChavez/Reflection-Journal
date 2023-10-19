@@ -22,6 +22,7 @@
 CUTTING EDGE![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/c1d88a7a-b043-46d2-92a7-64d96cee8b9a)
 D'HorICEzons![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/ecaf01bd-d232-4fd4-b262-da5f43d0109e)
 BACKGROUND MAIN PAGE![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/2b17d3b5-dc5a-4a51-8f10-f6b907e2fa54)
+CONTROL COMMANDOS![image](https://github.com/MarloChavez/Reflection-Journal/assets/143811084/9b154bff-f18f-4fef-8a6d-40b93b1b1956)
 
 
 
