@@ -6,7 +6,6 @@ body {
   padding: 0;
   overflow: hidden; /* Hide the main scrollbar */
   font-family: "Teko", sans-serif;
-  color: #fff; /* Set the font color to white for the entire page */
 }
 
 .main {
@@ -55,6 +54,7 @@ body {
   font-family: "Teko", serif;
   font-size: 23px;
   margin-bottom: 70px;
+  color: #fff;
 }
 
 .navbar {
