@@ -5,6 +5,8 @@ body {
   margin: 0;
   padding: 0;
   overflow: hidden; /* Hide the main scrollbar */
+  font-family: "Teko", sans-serif;
+  color: #fff; /* Set the font color to white for the entire page */
 }
 
 .main {
