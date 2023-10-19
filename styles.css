@@ -78,7 +78,7 @@ body {
 
 .navbar-text {
   text-decoration: none;
-  color: #fff; /* Change the text color as needed */
+  color: #000000; /* Change the text color as needed */
   font-size: 24px; /* Adjust the font size as needed */
   font-weight: bold; /* Add or remove font weight as needed */
   margin: 0 auto; /* Center the text horizontally within the navbar */
