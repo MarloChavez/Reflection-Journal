@@ -404,7 +404,7 @@ profile .card .card__content .card__price {
     column-gap: 20px;
 }
 profile .card .card__content .card__price h1 {
-    color: var(--dark-cyan);
+    color: var(--white);
     font-family: 'Fraunces', serif;
 }
 profile .card .card__content .card__price s {
@@ -417,7 +417,7 @@ profile .card .card__content .card__btn {
     align-items: center;
     justify-content: center;
     column-gap: 10px;
-    background-color: var(--dark-cyan);
+    background-color: var(--white);
     padding: 14px;
     outline: none;
     border: 0;
@@ -429,7 +429,7 @@ profile .card .card__content .card__btn {
     transition: background 200ms linear;
 }
 profile .card .card__content .card__btn:hover {
-    background-color: var(--very-dark-blue);
+    background-color: var(--white);
 }
 
 
